@@ -1,0 +1,5 @@
+com\capgemini\spring\provider\HelloWorldMessageProvider.class
+com\capgemini\spring\test\Test.class
+com\capgemini\spring\provider\MessageProvider.class
+com\capgemini\spring\renderer\MessageRenderer.class
+com\capgemini\spring\provider\GMMessageProvider.class
